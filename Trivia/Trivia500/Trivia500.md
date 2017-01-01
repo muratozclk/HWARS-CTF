@@ -8,7 +8,7 @@ Soruda bize sadece bir resim vermiþlerdi.
 
 Qr kodunu program aracýlýðýyla okuttuk. Fakat bu qr kodda herhangi bir ipucu yoktu.
 
-![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/not.png?raw=true)
+![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/notthat.png?raw=true)
 
 Daha sonra binary kodunda ipucu olabileceðini düþündük. Fakat burdanda ipucu yakalayamadýk.
 
