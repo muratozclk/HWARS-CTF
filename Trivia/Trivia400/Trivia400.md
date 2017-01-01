@@ -17,3 +17,7 @@ Ben bunla uðraþmak istemiyorum diyebilirsiniz bizim gibi. http://www.masswerk.at
 WHO WAS THE FIRST TO USE THE PUNCH CARDS 4 INFORMATION STORAGE?
 
 Sorumuzun cevabý bu soruda gizliydi.Soru bizi Semen Korsakov' a ulaþtýrýyordu. Semen Korsakov, delikli kartlarý ilk defa bilgi depolamada kullanan kiþidir.
+
+Sorunun cevabý korsakov' du.
+
+### FLAG :  ctf_{27057d4fa75d40cda887b1f89170579f641eb3fc}
