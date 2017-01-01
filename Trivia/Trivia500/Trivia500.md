@@ -24,7 +24,7 @@ Uzun süre yaptýðýmýz denemeler sonucunda burdanda herhangi bir sonuca ulaþamadýk
 
 Arkadaþlarýmýzdan biri labirent tünellerinde flagýn gizli olabileciði fikrini ortaya attý.
 
-![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/waat.png?raw=true)
+![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/waat.jpg?raw=true)
 
 Uzun süren beyin fýrtýnasýndan sonra cevabýn gözümüzün önünde olduðunu farkettik.
 
