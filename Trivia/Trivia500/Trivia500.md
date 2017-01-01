@@ -1,6 +1,6 @@
 ## Hacking Wars CTF - Trivia 500 - Escape from Labyrinth
 
-Bu yazýda sizlere Trivia 500 sorusunu çözerken uguladýðýmýz yöntemlerden bahsedeceðim.
+Bu yazýda sizlere Trivia 500 sorusunu çözerken uyguladýðýmýz yöntemlerden bahsedeceðim.
 
 Soruda bize sadece bir resim vermiþlerdi.
 

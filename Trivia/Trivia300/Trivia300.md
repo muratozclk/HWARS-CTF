@@ -1,6 +1,6 @@
 ## Hacking Wars CTF - Trivia 300 - Meaning of life
 
-Bu yazýda sizlere Trivia 300 sorusunu çözerken uguladýðýmýz yöntemlerden bahsedeceðim.
+Bu yazýda sizlere Trivia 300 sorusunu çözerken uyguladýðýmýz yöntemlerden bahsedeceðim.
 
 Soruya baktýðýmýzda bize aþaðýdaki resimin verildiðini gördük.
 

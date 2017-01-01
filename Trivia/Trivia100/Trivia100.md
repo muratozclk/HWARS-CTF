@@ -1,6 +1,6 @@
 ## Hacking Wars CTF - Trivia 100 - Hit me
 
-Bu yazýda sizlere Trivia 100 sorusunu çözerken uguladýðýmýz yöntemlerden bahsedeceðim.
+Bu yazýda sizlere Trivia 100 sorusunu çözerken uyguladýðýmýz yöntemlerden bahsedeceðim.
 
 Soruya ilk baktýðýmýzda bunun braille alfabesinde yazýldýðýný farkettik.
 

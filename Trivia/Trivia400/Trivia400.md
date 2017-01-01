@@ -1,6 +1,6 @@
 ## Hacking Wars CTF - Trivia 400 - Dark Hole
 
-Bu yazýda sizlere Trivia 300 sorusunu çözerken uguladýðýmýz yöntemlerden bahsedeceðim.
+Bu yazýda sizlere Trivia 300 sorusunu çözerken uyguladýðýmýz yöntemlerden bahsedeceðim.
 
 Soruda bize aþaðýdaki png dosyasý verilmiþti.
 
