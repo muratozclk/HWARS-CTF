@@ -6,7 +6,7 @@ Soruda bize sadece bir resim vermiþlerdi.
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/Trivia500.png?raw=true)
 
-Qr kodunu program aracýlýðýyla okuttuk. Fakat bu qr kodda herhangi bir ipucu yoktu.
+Qr kodunu program aracýlýðýyla okuttuk. Fakat bu qr kodunda herhangi bir ipucu yoktu.
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/notthat.png?raw=true)
 
@@ -30,6 +30,6 @@ Uzun süren beyin fýrtýnasýndan sonra cevabýn gözümüzün önünde olduðunu farkettik
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/maze.png?raw=true)
 
-maze :)
+maze = labirent :)
 
 ### FLAG :  ctf_{bcc4d4f0381c74919db335641dc13b085bf1d0fd}

@@ -14,6 +14,6 @@ Metni çevirdikten sonra karþýmýza þöyle bir yazý çýkmaktaydý.
 
 ### flag is:m0R53M3N07
 
-Fakat flag 'm0R53M3N07' deðildi. Biraz deneme yaptýktan sonra cevabýn 'morsemenot'olduðunu öðrendik.
+Fakat flag 'm0R53M3N07' deðildi. Biraz deneme yaptýktan sonra cevabýn 'morsemenot' olduðunu öðrendik.
 
 ### FLAG :  ctf_{cf6b2fe9d0bc6a75a282e2f44a3419c8eb16c4d0}

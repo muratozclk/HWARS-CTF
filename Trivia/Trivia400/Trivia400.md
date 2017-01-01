@@ -2,7 +2,7 @@
 
 Bu yazýda sizlere Trivia 300 sorusunu çözerken uyguladýðýmýz yöntemlerden bahsedeceðim.
 
-Soruda bize aþaðýdaki png dosyasý verilmiþti.
+Soruda bize aþaðýdaki resim verilmiþti.
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/Trivia400.png?raw=true)
 
@@ -12,12 +12,12 @@ Bizim bu kart üzerinde kodlanmýþ veriyi çözmemiz gerekiyordu.Bunu tek tek aþaðýd
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/darkhole.png?raw=true)
 
-Ben bunla uðraþmak istemiyorum diyebilirsiniz bizim gibi. http://www.masswerk.at/cardreader/ bu site buna benzer resimlerdeki verileri size gösterebiliyor.Siteyi kullanarak delikli kartta kodlanmýþ aþaðýdaki soruya ulaþtýk.
+Ben bunla uðraþmak istemiyorum diyebilirsiniz bizim gibi.( http://www.masswerk.at/cardreader/ ) bu site buna benzer resimlerdeki verileri size gösterebiliyor. Siteyi kullanarak delikli kartta kodlanmýþ aþaðýdaki soruya ulaþtýk.
 
 WHO WAS THE FIRST TO USE THE PUNCH CARDS 4 INFORMATION STORAGE?
 
 Sorumuzun cevabý bu soruda gizliydi.Soru bizi Semen Korsakov' a ulaþtýrýyordu. Semen Korsakov, delikli kartlarý ilk defa bilgi depolamada kullanan kiþidir.
 
-Sorunun cevabý korsakov' du.
+Sorunun cevabý 'korsakov' du.
 
 ### FLAG :  ctf_{27057d4fa75d40cda887b1f89170579f641eb3fc}
