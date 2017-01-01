@@ -6,8 +6,7 @@ Soruya ilk baktýðýmýzda bunun braille alfabesinde yazýldýðýný farkettik.
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/braille.png?raw=true)
 
-Bize verilen metni bu siteye benzer sitelerden çevirebilirsiniz .
-http://qaz.wtf/u/braille.cgi yada bunu kendiniz çevirebilirsiniz.
+Bize verilen metni bu siteye ( http://qaz.wtf/u/braille.cgi ) benzer sitelerden çevirebilirsiniz yada bunu kendiniz çevirebilirsiniz.
 
 ![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/braillealphabe.png?raw=true)
 
