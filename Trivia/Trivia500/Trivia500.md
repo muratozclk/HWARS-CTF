@@ -8,7 +8,7 @@ Soruda bize sadece bir resim vermiþlerdi.
 
 Qr kodunu program aracýlýðýyla okuttuk. Fakat bu qr kodda herhangi bir ipucu yoktu.
 
-![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/not.PNG?raw=true)
+![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/not.png?raw=true)
 
 Daha sonra binary kodunda ipucu olabileceðini düþündük. Fakat burdanda ipucu yakalayamadýk.
 
@@ -24,7 +24,7 @@ Uzun süre yaptýðýmýz denemeler sonucunda burdanda herhangi bir sonuca ulaþamadýk
 
 Arkadaþlarýmýzdan biri labirent tünellerinde flagýn gizli olabileciði fikrini ortaya attý.
 
-![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/waat.jpg?raw=true)
+![alt tag](https://github.com/muratozclk/HWARS-CTF/blob/master/Trivia/Image/waat.png?raw=true)
 
 Uzun süren beyin fýrtýnasýndan sonra cevabýn gözümüzün önünde olduðunu farkettik.
 
